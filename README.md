@@ -1,7 +1,7 @@
 # <img  align="center" width= 70px  src="https://raw.githubusercontent.com/yashk9293/moviestan/main/src/assets/moviestan.png">  Moviestan App
 
 <h2>Ultimate Movie and TV Show Discovery Platform</h2>
-<p align="center"><img src="./src/assets/screenshots/Screenshot 2024-04-27 080343.png" alt="Moviestan homepage"></p>
+<p align="center"><img src="./src/assets/screenshots/Screenshot 2024-04-27 122330.png" alt="Moviestan homepage"></p>
 
 Discover real-time movies and TV shows with detailed information using, 🎥 The Moviestan App: A dynamic and fully responsive web app that explores  Trending, Upcoming, and Top-rated exciting movies and web shows.🍿 Built with React, Axios, Redux, and Custom Hooks, it fetches data in real-time from TMDB’s API, offering an immersive experience with the help of various useful React libraries. This app offers a responsive and visually appealing user interface that adapts seamlessly to various screen sizes.
 
@@ -10,13 +10,13 @@ Discover real-time movies and TV shows with detailed information using, 🎥 The
 
 #  🖥️ Screen Preview: 
 ## Search Result
-  <img src="./src/assets/screenshots/Screenshot 2024-04-27 112025.png" alt="Moviestan Search page">
+  <img src="./src/assets/screenshots/Screenshot 2024-04-27 122308.png" alt="Moviestan Search page">
 
 ## Explore Movies & TV Shows
-  <img src="./src/assets/screenshots/Screenshot 2024-04-27 112247.png" alt="Moviestan Explore page">
+  <img src="./src/assets/screenshots/Screenshot 2024-04-27 122424.png" alt="Moviestan Explore page">
 
 ## Details of Movie / TV
-<img src="./src/assets/screenshots/Screenshot 2024-04-27 112914.png" alt="Movie Page">
+<img src="./src/assets/screenshots/Screenshot 2024-04-27 122445.png" alt="Movie Page">
 
 ## Cast of the Movie / TV
 <img src="./src/assets/screenshots/Screenshot 2024-04-27 112937.png" alt="Cast Page">
